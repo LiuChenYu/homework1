@@ -1,7 +1,7 @@
 
-
-一、1+0i
-
+#一、1+0i
+![Alt text](/path/to/img.jpg)
+```
 clear;
 x =[0,0];
 axis([-2 2 -2 2]);
@@ -14,12 +14,12 @@ for n=0:4
    plot([0 seap],[0 seap2],'-or');
    hold on;
 end
+```
 
 
 
-
-二、2+3i
-
+#二、2+3i
+```
 clear;
 x =[0,0];
 axis([-2 2 -2 2]);
@@ -32,3 +32,4 @@ for n=0:4
    plot([0 seap],[0 seap2],'-or');
    hold on;
 end
+```
