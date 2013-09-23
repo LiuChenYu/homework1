@@ -1,6 +1,5 @@
-
 #一、1+0i
-![Alt text](/path/to/img.jpg)
+![Alt text](/photo.png)
 ```
 clear;
 x =[0,0];
@@ -19,6 +18,7 @@ end
 
 
 #二、2+3i
+![Alt text](/photo1.png)
 ```
 clear;
 x =[0,0];
